@@ -37,7 +37,7 @@ fontLoader.load(
     (font) => 
     {
         const textGeometry = new TextGeometry(
-            'kweenkw',
+            'KENNY',
         {
             font,
             size: 0.5,
