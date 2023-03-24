@@ -17,7 +17,7 @@ const canvas = document.querySelector('canvas.webgl')
 const scene = new THREE.Scene()
 
 const axesHelper = new THREE.AxesHelper()
-scene.add(axesHelper)
+// scene.add(axesHelper)
 
 /**
  * Textures
